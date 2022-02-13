@@ -1,3 +1,1 @@
-h1, p {
-  font-family: Lato;
-}
+@import 'bulma/css/bulma.css';
